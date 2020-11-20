@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:paper"
+    },
+    "title": {
+      "translate": "advancements.paperadv.title"
+    },
+    "description": {
+      "translate": "advancements.paperadv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "paperadv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:paper",
+            "count": {
+              "min": 8,
+              "max": 8
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "skyblockitems:badpaperadv"
+}

@@ -1,0 +1,19 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "netherplus:netherite_ingot"
+    },
+    {
+      "item": "minecraft:smithing_table"
+    },
+    {
+      "item": "skyblockitems:diamond_mesh"
+    }
+  ],
+  "result": {
+    "item": "skyblockitems:netherite_mesh",
+    "count": 1
+  }
+}

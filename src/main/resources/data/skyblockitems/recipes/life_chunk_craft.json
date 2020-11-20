@@ -1,0 +1,26 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dirt"
+    },
+    "1": {
+      "item": "minecraft:dirt"
+    },
+    "2": {
+      "item": "minecraft:dirt"
+    },
+    "3": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "skyblockitems:life_chunk",
+    "count": 4
+  }
+}

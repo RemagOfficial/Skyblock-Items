@@ -1,0 +1,45 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 8,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Badpaper"
+      },
+      {
+        "value": "CUSTOM:Badpaper"
+      },
+      {
+        "value": "CUSTOM:Badpaper"
+      },
+      {
+        "value": "CUSTOM:Badpaper"
+      },
+      {
+        "value": "Items.DYE#19"
+      },
+      {
+        "value": "CUSTOM:Badpaper"
+      },
+      {
+        "value": "CUSTOM:Badpaper"
+      },
+      {
+        "value": "CUSTOM:Badpaper"
+      },
+      {
+        "value": "CUSTOM:Badpaper"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.PAPER"
+    },
+    "name": "badpapercraft",
+    "namespace": "mod"
+  }
+}

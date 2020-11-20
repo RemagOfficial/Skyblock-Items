@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "skyblockitems:blocks/sky_stone_block",
+    "particle": "skyblockitems:blocks/sky_stone_block"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "skyblockitems:lapischunk"
+    },
+    {
+      "item": "skyblockitems:lapischunk"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dye",
+    "data": 4,
+    "count": 1
+  }
+}

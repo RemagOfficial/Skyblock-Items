@@ -1,0 +1,13 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt"
+    }
+  ],
+  "result": {
+    "item": "skyblockitems:dirt_mod",
+    "count": 1
+  }
+}

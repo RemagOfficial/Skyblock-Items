@@ -1,0 +1,7 @@
+{
+  "parent": "skyblockitems:custom/netheritemesh",
+  "textures": {
+    "white_wool": "skyblockitems:blocks/netherite_block",
+    "particle": "skyblockitems:items/637166151559198140"
+  }
+}

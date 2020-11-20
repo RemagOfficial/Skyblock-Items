@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "white_wool": "gray_concrete_powder"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "hammerwood",
+    "customModelName": "Normal",
+    "name": "Wooden Hammer",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Skyblockitems"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 2.0,
+    "attackSpeed": 1.0,
+    "enchantability": 0,
+    "damageVsEntity": 4.5,
+    "usageCount": 1000,
+    "blocksAffected": [
+      {
+        "value": "CUSTOM:Crate"
+      },
+      {
+        "value": "Blocks.COBBLESTONE"
+      }
+    ],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.PLANKS#0"
+      },
+      {
+        "value": "Blocks.PLANKS#1"
+      },
+      {
+        "value": "Blocks.PLANKS#2"
+      },
+      {
+        "value": "Blocks.PLANKS#3"
+      },
+      {
+        "value": "Blocks.PLANKS#4"
+      },
+      {
+        "value": "Blocks.PLANKS#5"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "Hammercrush"
+    }
+  }
+}

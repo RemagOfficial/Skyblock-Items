@@ -1,0 +1,8 @@
+{
+  "parent": "skyblockitems:custom/meshlessseive",
+  "textures": {
+    "all": "skyblockitems:blocks/oak_planks",
+    "particle": "skyblockitems:blocks/oak_planks",
+    "oak_planks": "skyblockitems:blocks/oak_planks"
+  }
+}

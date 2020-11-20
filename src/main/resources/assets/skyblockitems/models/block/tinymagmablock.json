@@ -1,0 +1,8 @@
+{
+  "parent": "skyblockitems:custom/tinymagmablock1",
+  "textures": {
+    "all": "skyblockitems:blocks/magma_block",
+    "particle": "skyblockitems:blocks/magma_block",
+    "Magma_block": "skyblockitems:blocks/magma_block"
+  }
+}

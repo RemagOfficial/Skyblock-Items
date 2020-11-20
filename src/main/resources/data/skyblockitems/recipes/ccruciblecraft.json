@@ -1,0 +1,13 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "skyblockitems:firedcrucible"
+    }
+  ],
+  "result": {
+    "item": "skyblockitems:firedcruciblelava",
+    "count": 1
+  }
+}

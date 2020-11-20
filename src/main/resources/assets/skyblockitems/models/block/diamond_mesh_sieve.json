@@ -1,0 +1,9 @@
+{
+  "parent": "skyblockitems:custom/diamondmeshseive",
+  "textures": {
+    "all": "skyblockitems:blocks/diamond_block",
+    "particle": "skyblockitems:blocks/diamond_block",
+    "white_wool": "skyblockitems:blocks/diamond_block",
+    "oak_planks": "skyblockitems:blocks/oak_planks"
+  }
+}

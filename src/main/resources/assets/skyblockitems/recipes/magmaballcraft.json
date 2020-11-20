@@ -1,0 +1,26 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "skyblockitems:tinymagma"
+    },
+    "1": {
+      "item": "skyblockitems:tinymagma"
+    },
+    "2": {
+      "item": "skyblockitems:tinymagma"
+    },
+    "3": {
+      "item": "skyblockitems:tinymagma"
+    }
+  },
+  "result": {
+    "item": "minecraft:magma_cream",
+    "count": 1
+  }
+}

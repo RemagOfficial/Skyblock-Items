@@ -1,0 +1,27 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    " 45",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "tag": "minecraft:planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "tag": "minecraft:planks"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "skyblockitems:shammer",
+    "count": 1
+  }
+}

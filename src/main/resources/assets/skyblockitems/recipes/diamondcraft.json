@@ -1,0 +1,42 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "skyblockitems:diamondchunk"
+    },
+    "1": {
+      "item": "skyblockitems:diamondchunk"
+    },
+    "2": {
+      "item": "skyblockitems:diamondchunk"
+    },
+    "3": {
+      "item": "skyblockitems:diamondchunk"
+    },
+    "4": {
+      "item": "skyblockitems:diamondchunk"
+    },
+    "5": {
+      "item": "skyblockitems:diamondchunk"
+    },
+    "6": {
+      "item": "skyblockitems:diamondchunk"
+    },
+    "7": {
+      "item": "skyblockitems:diamondchunk"
+    },
+    "8": {
+      "item": "skyblockitems:diamondchunk"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 1
+  }
+}

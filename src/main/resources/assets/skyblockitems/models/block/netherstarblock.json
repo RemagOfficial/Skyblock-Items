@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "skyblockitems:blocks/120px-ether_tar",
+    "particle": "skyblockitems:blocks/120px-ether_tar"
+  }
+}

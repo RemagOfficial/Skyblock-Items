@@ -1,0 +1,13 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "result": {
+    "item": "skyblockitems:gravel_mod",
+    "count": 1
+  }
+}

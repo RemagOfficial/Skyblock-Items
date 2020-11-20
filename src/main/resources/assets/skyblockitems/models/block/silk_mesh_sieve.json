@@ -1,0 +1,9 @@
+{
+  "parent": "skyblockitems:custom/silkmeshseive",
+  "textures": {
+    "all": "skyblockitems:blocks/white_wool",
+    "particle": "skyblockitems:blocks/white_wool",
+    "white_wool": "skyblockitems:blocks/white_wool",
+    "oak_planks": "skyblockitems:blocks/oak_planks"
+  }
+}

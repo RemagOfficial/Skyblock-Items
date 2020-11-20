@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "white_wool": "netherite_block"
+      },
+      "name": "default"
+    }
+  }
+}

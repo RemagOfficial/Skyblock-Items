@@ -1,0 +1,16 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "skyblockitems:sand_mod",
+    "count": 1
+  }
+}

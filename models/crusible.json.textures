@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "clay": "clay"
+      },
+      "name": "default"
+    }
+  }
+}

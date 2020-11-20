@@ -1,0 +1,16 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "skyblockitems:lapischunk"
+    },
+    {
+      "item": "skyblockitems:lapischunk"
+    }
+  ],
+  "result": {
+    "item": "minecraft:lapis_lazuli",
+    "count": 1
+  }
+}

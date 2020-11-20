@@ -1,0 +1,7 @@
+{
+  "parent": "skyblockitems:custom/flintmesh",
+  "textures": {
+    "white_wool": "skyblockitems:blocks/gray_concrete_powder",
+    "particle": "skyblockitems:items/worm1"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "skyblockitems:custom/crusible",
+  "textures": {
+    "all": "skyblockitems:blocks/clay",
+    "particle": "skyblockitems:blocks/clay",
+    "clay": "skyblockitems:blocks/clay"
+  }
+}

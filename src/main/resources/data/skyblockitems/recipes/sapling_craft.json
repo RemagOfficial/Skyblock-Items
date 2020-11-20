@@ -1,0 +1,36 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "skyblockitems:life_chunk"
+    },
+    "1": {
+      "item": "skyblockitems:life_chunk"
+    },
+    "2": {
+      "item": "skyblockitems:life_chunk"
+    },
+    "3": {
+      "item": "skyblockitems:life_chunk"
+    },
+    "4": {
+      "item": "skyblockitems:life_chunk"
+    },
+    "5": {
+      "item": "skyblockitems:life_chunk"
+    },
+    "7": {
+      "item": "skyblockitems:dirt_dust"
+    }
+  },
+  "result": {
+    "item": "minecraft:oak_sapling",
+    "count": 1
+  }
+}

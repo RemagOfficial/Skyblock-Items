@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Magma_block": "magma_block"
+      },
+      "name": "default"
+    }
+  }
+}

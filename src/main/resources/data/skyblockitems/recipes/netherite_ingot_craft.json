@@ -1,0 +1,42 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "skyblockitems:netheritechunk"
+    },
+    "1": {
+      "item": "skyblockitems:netheritechunk"
+    },
+    "2": {
+      "item": "skyblockitems:netheritechunk"
+    },
+    "3": {
+      "item": "skyblockitems:netheritechunk"
+    },
+    "4": {
+      "item": "skyblockitems:diamondchunk"
+    },
+    "5": {
+      "item": "skyblockitems:netheritechunk"
+    },
+    "6": {
+      "item": "skyblockitems:netheritechunk"
+    },
+    "7": {
+      "item": "skyblockitems:netheritechunk"
+    },
+    "8": {
+      "item": "skyblockitems:netheritechunk"
+    }
+  },
+  "result": {
+    "item": "netherplus:netherite_ingot",
+    "count": 1
+  }
+}

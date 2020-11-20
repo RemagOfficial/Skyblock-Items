@@ -1,0 +1,26 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "skyblockitems:dirt_dust"
+    },
+    "1": {
+      "item": "skyblockitems:dirt_dust"
+    },
+    "2": {
+      "item": "skyblockitems:dirt_dust"
+    },
+    "3": {
+      "item": "skyblockitems:dirt_dust"
+    }
+  },
+  "result": {
+    "item": "minecraft:dirt",
+    "count": 1
+  }
+}

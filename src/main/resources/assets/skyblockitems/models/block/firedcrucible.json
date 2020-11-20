@@ -1,0 +1,8 @@
+{
+  "parent": "skyblockitems:custom/firedcrucible",
+  "textures": {
+    "all": "skyblockitems:blocks/terracotta",
+    "particle": "skyblockitems:blocks/terracotta",
+    "terracotta": "skyblockitems:blocks/terracotta"
+  }
+}

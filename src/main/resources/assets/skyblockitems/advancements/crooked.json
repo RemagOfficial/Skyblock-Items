@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "skyblockitems:crook"
+    },
+    "title": {
+      "translate": "advancements.crooked.title"
+    },
+    "description": {
+      "translate": "advancements.crooked.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "crooked": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "skyblockitems:crook",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "skyblockitems:skyblockitemsadv"
+}

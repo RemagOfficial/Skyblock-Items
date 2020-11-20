@@ -1,0 +1,42 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "skyblockitems:tinyslime"
+    },
+    "1": {
+      "item": "skyblockitems:tinyslime"
+    },
+    "2": {
+      "item": "skyblockitems:tinyslime"
+    },
+    "3": {
+      "item": "skyblockitems:tinyslime"
+    },
+    "4": {
+      "item": "skyblockitems:tinyslime"
+    },
+    "5": {
+      "item": "skyblockitems:tinyslime"
+    },
+    "6": {
+      "item": "skyblockitems:tinyslime"
+    },
+    "7": {
+      "item": "skyblockitems:tinyslime"
+    },
+    "8": {
+      "item": "skyblockitems:tinyslime"
+    }
+  },
+  "result": {
+    "item": "skyblockitems:tinyslimeblock",
+    "count": 1
+  }
+}

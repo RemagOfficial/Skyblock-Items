@@ -1,0 +1,29 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    " 45",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    "4": {
+      "item": "skyblockitems:stonerod"
+    },
+    "5": {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    "6": {
+      "item": "skyblockitems:stonerod"
+    }
+  },
+  "result": {
+    "item": "skyblockitems:shammer",
+    "count": 1
+  }
+}

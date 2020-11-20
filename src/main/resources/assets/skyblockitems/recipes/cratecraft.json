@@ -1,0 +1,45 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    {
+      "item": "skyblockitems:badpaper"
+    },
+    {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:planks",
+      "data": 32767
+    }
+  ],
+  "result": {
+    "item": "skyblockitems:crate",
+    "count": 1
+  }
+}

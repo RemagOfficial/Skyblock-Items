@@ -1,0 +1,16 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "skyblockitems:emeraldchunk"
+    },
+    {
+      "item": "skyblockitems:emeraldchunk"
+    }
+  ],
+  "result": {
+    "item": "minecraft:emerald",
+    "count": 1
+  }
+}

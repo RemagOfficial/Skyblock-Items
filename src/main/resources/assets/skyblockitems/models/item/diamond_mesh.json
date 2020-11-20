@@ -1,0 +1,7 @@
+{
+  "parent": "skyblockitems:custom/diamondmesh",
+  "textures": {
+    "white_wool": "skyblockitems:blocks/diamond_block",
+    "particle": "skyblockitems:items/diamond_2"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "skyblockitems:tinyslime"
+    },
+    "1": {
+      "item": "skyblockitems:tinyslime"
+    },
+    "2": {
+      "item": "skyblockitems:tinyslime"
+    },
+    "3": {
+      "item": "skyblockitems:tinyslime"
+    }
+  },
+  "result": {
+    "item": "minecraft:slime_ball",
+    "count": 1
+  }
+}

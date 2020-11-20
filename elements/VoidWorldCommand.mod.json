@@ -1,0 +1,11 @@
+{
+  "_fv": 13,
+  "_type": "command",
+  "definition": {
+    "commandName": "void",
+    "permissionLevel": 1,
+    "onCommandExecuted": {
+      "name": "VoidWorldCheck"
+    }
+  }
+}

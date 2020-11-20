@@ -1,0 +1,9 @@
+{
+  "parent": "skyblockitems:custom/lavacru",
+  "textures": {
+    "all": "skyblockitems:blocks/terracotta",
+    "particle": "skyblockitems:blocks/terracotta",
+    "lava_still": "skyblockitems:blocks/lava",
+    "terracotta": "skyblockitems:blocks/terracotta"
+  }
+}

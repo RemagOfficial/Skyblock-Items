@@ -1,0 +1,11 @@
+{
+  "ding": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "skyblockitems:minecraft-orb",
+        "stream": false
+      }
+    ]
+  }
+}

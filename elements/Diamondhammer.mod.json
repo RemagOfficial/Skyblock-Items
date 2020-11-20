@@ -1,0 +1,55 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "hammerdiamond",
+    "customModelName": "Normal",
+    "name": "Diamond Hammer",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Skyblockitems"
+    },
+    "toolType": "Special",
+    "harvestLevel": 4,
+    "efficiency": 8.0,
+    "attackSpeed": 3.5,
+    "enchantability": 2,
+    "damageVsEntity": 9.5,
+    "usageCount": 4000,
+    "blocksAffected": [
+      {
+        "value": "CUSTOM:Crate"
+      },
+      {
+        "value": "CUSTOM:Ironcrate"
+      },
+      {
+        "value": "CUSTOM:Obsidiancrate"
+      },
+      {
+        "value": "CUSTOM:Diamondcrate"
+      },
+      {
+        "value": "Blocks.COBBLESTONE"
+      }
+    ],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Diamondchunk"
+      },
+      {
+        "value": "CUSTOM:Diamondhalf"
+      },
+      {
+        "value": "Items.DIAMOND"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "Hammercrush"
+    }
+  }
+}

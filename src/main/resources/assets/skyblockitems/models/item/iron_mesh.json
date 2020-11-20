@@ -1,0 +1,7 @@
+{
+  "parent": "skyblockitems:custom/ironmesh",
+  "textures": {
+    "white_wool": "skyblockitems:blocks/iron_block",
+    "particle": "skyblockitems:items/iron_ingot"
+  }
+}

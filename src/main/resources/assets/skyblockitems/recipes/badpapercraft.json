@@ -1,0 +1,42 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "skyblockitems:badpaper"
+    },
+    "1": {
+      "item": "skyblockitems:badpaper"
+    },
+    "2": {
+      "item": "skyblockitems:badpaper"
+    },
+    "3": {
+      "item": "skyblockitems:badpaper"
+    },
+    "4": {
+      "item": "minecraft:air"
+    },
+    "5": {
+      "item": "skyblockitems:badpaper"
+    },
+    "6": {
+      "item": "skyblockitems:badpaper"
+    },
+    "7": {
+      "item": "skyblockitems:badpaper"
+    },
+    "8": {
+      "item": "skyblockitems:badpaper"
+    }
+  },
+  "result": {
+    "item": "minecraft:paper",
+    "count": 8
+  }
+}

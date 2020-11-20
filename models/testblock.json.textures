@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "andesite": "andesite"
+      },
+      "name": "default"
+    }
+  }
+}

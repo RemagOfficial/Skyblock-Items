@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="skyblockitems"
+version="2.8.6"
+displayName="Skyblock Items"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="bmaster_gamer"
+description='''
+added descrption 
+'''
+
+[[dependencies.skyblockitems]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

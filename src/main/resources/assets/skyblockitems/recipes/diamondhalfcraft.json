@@ -1,0 +1,33 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "skyblockitems:diamondchunk"
+    },
+    "1": {
+      "item": "skyblockitems:diamondchunk"
+    },
+    "2": {
+      "item": "skyblockitems:diamondchunk"
+    },
+    "3": {
+      "item": "skyblockitems:diamondchunk"
+    },
+    "4": {
+      "item": "skyblockitems:diamondchunk"
+    },
+    "5": {
+      "item": "skyblockitems:diamondchunk"
+    }
+  },
+  "result": {
+    "item": "skyblockitems:diamondhalf",
+    "count": 1
+  }
+}

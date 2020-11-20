@@ -1,0 +1,54 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "crook1",
+    "customModelName": "Normal",
+    "name": "Crook",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Skyblockitems"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 100.0,
+    "attackSpeed": 1.0,
+    "enchantability": 0,
+    "damageVsEntity": 0.0,
+    "usageCount": 256,
+    "blocksAffected": [
+      {
+        "value": "Blocks.LEAVES"
+      },
+      {
+        "value": "Blocks.LEAVES#0"
+      },
+      {
+        "value": "Blocks.LEAVES#1"
+      },
+      {
+        "value": "Blocks.LEAVES#2"
+      },
+      {
+        "value": "Blocks.LEAVES#3"
+      },
+      {
+        "value": "Blocks.LEAVES2"
+      },
+      {
+        "value": "Blocks.LEAVES2#0"
+      },
+      {
+        "value": "Blocks.LEAVES2#1"
+      }
+    ],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "CrookBlockDestroyedWithTool"
+    }
+  }
+}

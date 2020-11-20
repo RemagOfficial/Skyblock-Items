@@ -1,0 +1,9 @@
+{
+  "parent": "skyblockitems:custom/netheritemeshseive",
+  "textures": {
+    "all": "skyblockitems:blocks/netherite_block",
+    "particle": "skyblockitems:blocks/netherite_block",
+    "white_wool": "skyblockitems:blocks/netherite_block",
+    "oak_planks": "skyblockitems:blocks/oak_planks"
+  }
+}

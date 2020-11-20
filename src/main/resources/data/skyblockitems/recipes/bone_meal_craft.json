@@ -1,0 +1,16 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "skyblockitems:bone_meal_chunk"
+    },
+    {
+      "item": "skyblockitems:bone_meal_chunk"
+    }
+  ],
+  "result": {
+    "item": "minecraft:bone_meal",
+    "count": 1
+  }
+}

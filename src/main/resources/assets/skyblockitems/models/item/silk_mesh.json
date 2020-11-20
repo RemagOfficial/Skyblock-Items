@@ -1,0 +1,7 @@
+{
+  "parent": "skyblockitems:custom/silkmesh",
+  "textures": {
+    "white_wool": "skyblockitems:blocks/white_wool",
+    "particle": "skyblockitems:items/worm1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "skyblockitems:ironchunk"
+    },
+    {
+      "item": "skyblockitems:ironchunk"
+    }
+  ],
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 1
+  }
+}

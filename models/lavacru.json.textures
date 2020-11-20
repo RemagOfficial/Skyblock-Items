@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "lava_still": "lava",
+        "terracotta": "terracotta"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "skyblockitems:custom/ironmeshseive",
+  "textures": {
+    "all": "skyblockitems:blocks/iron_block",
+    "particle": "skyblockitems:blocks/iron_block",
+    "white_wool": "skyblockitems:blocks/iron_block",
+    "oak_planks": "skyblockitems:blocks/oak_planks"
+  }
+}

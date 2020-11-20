@@ -1,0 +1,16 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "skyblockitems:quartzchunk"
+    },
+    {
+      "item": "skyblockitems:quartzchunk"
+    }
+  ],
+  "result": {
+    "item": "minecraft:quartz",
+    "count": 1
+  }
+}

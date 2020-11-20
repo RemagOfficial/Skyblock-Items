@@ -1,0 +1,12 @@
+{
+  "group": "skyblockitems",
+  "type": "minecraft:smelting",
+  "experience": 0,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "skyblockitems:crusible"
+  },
+  "result": {
+    "item": "skyblockitems:firedcrucible"
+  }
+}

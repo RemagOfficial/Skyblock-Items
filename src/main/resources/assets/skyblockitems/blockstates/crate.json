@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "skyblockitems:block/crate"
+    },
+    "facing=east": {
+      "model": "skyblockitems:block/crate",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "skyblockitems:block/crate",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "skyblockitems:block/crate",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "skyblockitems:block/crate",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "skyblockitems:block/crate",
+      "x": 90
+    }
+  }
+}

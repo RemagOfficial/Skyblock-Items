@@ -1,0 +1,9 @@
+{
+  "parent": "skyblockitems:custom/flintmeshseive",
+  "textures": {
+    "all": "skyblockitems:blocks/gray_concrete_powder",
+    "particle": "skyblockitems:blocks/gray_concrete_powder",
+    "white_wool": "skyblockitems:blocks/gray_concrete_powder",
+    "oak_planks": "skyblockitems:blocks/oak_planks"
+  }
+}

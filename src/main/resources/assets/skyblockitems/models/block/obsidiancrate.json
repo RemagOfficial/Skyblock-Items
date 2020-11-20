@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "skyblockitems:blocks/obsidiancrate",
+    "particle": "skyblockitems:blocks/obsidiancrate"
+  }
+}
